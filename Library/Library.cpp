@@ -31,7 +31,7 @@ int main()
         {
             if (array[i].isbn == isbnToBorrow) {
                 if (array[i].borrowBook()) {
-                    cout << "Don't forget to return the book: " << array[i].title << endl;
+                    cout << "Enjoy your reading! Just remember to return it on time " << array[i].title << endl;
                     break;
                 }
                 else { // we couldn't borrow the book
