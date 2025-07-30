@@ -11,7 +11,7 @@ int main()
     Book book3;
     book3.setBookDetails("THE HANDMAID'S TALE", "CCCCC", "Margaret Atwood", true);
     Book book4;
-    book4.setBookDetails("ANIMAL FARM", "DDDDD", "George Orwell", true);
+    book4.setBookDetails("A REVOLUÇAO DOS BICHOS", "DDDDD", "George Orwell", true);
     Book book5;
     book5.setBookDetails("AGUA VIVA", "FFFFF", "Clarice Lispector", true);
 
